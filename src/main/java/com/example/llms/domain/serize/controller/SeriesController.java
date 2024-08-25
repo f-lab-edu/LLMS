@@ -1,0 +1,7 @@
+package com.example.llms.domain.serize.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class SeriesController {
+}
